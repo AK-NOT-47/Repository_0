@@ -20,4 +20,4 @@ This code takes excel files and exclude unwanted rows ( like some crap on top {i
 
 Union
 
-This code takes csv files, looks at the headers and combines files according to comminality of headers
+This code takes csv files, looks at the headers and combines files according to the commonality of headers
